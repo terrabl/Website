@@ -1,0 +1,64 @@
+:root {
+	--main-bg: #fafafa;
+	--main-txt: #202020;
+	--secondary-txt: #505050;
+	--main-a: #808070;
+	--secondary-bg: #f0f0f0;
+	--tertiary-bg: #e0e0e0;
+	--owner-color: #407040;
+	--coder-color: #607595;
+	--owner-color-light: #60a060;
+	--coder-color-light: #7090c0;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body, .md-header {
+	background-color: var(--main-bg);
+	box-shadow: none !important;
+	font-family: 'Lato' !important;
+}
+
+h1, h2, h3, h4, h5, p, b, input, button, ::placeholder {
+	color: var(--main-txt) !important;
+	font-family: 'Lato' !important;
+}
+
+span, label {
+	color: var(--main-txt) !important;
+}
+
+.md-footer {
+    visibility: hidden;
+}
+
+body {
+	padding-top: 80px;
+	padding-bottom: 40px;
+	background-color: var(--main-bg);
+	font: normal 'Lato', sans-serif !important;
+	font-family: 'Lato' !important;
+}
+
+a {
+	color: var(--main-a);
+	text-decoration: none;
+	cursor: pointer;
+	font-family: 'Lato' !important;
+}
+
+a:focus,
+a:hover,
+button:focus,
+button:hover {
+	outline: none;
+	text-decoration: none;
+}
+
+input {
+    background-color: var(--main-bg) !important;
+	width: 95%;
+	resize: none;
+	border-style: none !important;
+	font-family: 'Lato' !important;
+}

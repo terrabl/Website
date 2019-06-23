@@ -1,6 +1,6 @@
 # Welcome
 
-This is the official documentation for the open-source Terraform Tool [Terrabl](https://github.com/terrabl/terrabl) sponsered by [Iulius](iulius.io).
+This is the official documentation for the open-source Terraform Tool [Terrabl](https://github.com/terrabl/terrabl) sponsered by [Iulius](https://iulius.io).
 
 ## Getting Started
 
