@@ -3,5 +3,4 @@ docs_dir: md/
 site_dir: docs/
 extra_css: 
   - css/custom.css
-theme:
-  name: 'gitbook'
+theme: 'cinder'
