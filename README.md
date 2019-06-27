@@ -1,4 +1,4 @@
-# <img src="custom_theme/img/logo.png" height=22>Website
+# <img src="custom_theme/img/logo.png" height=30> Website
 
 MK Docs Documentation Website for Terrabl App
 
