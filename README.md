@@ -16,7 +16,6 @@ MK Docs Documentation Website for Terrabl App
 ## How to use MkDocs
 
 * For a full reference of how to use MkDocs, please go [here](https://www.mkdocs.org/)
-* To build: `mkdocs build --clean` -- _note: .gitignore will ignore these files_
 * To serve (locally): `mkdocs serve`
 
 ## Where to contribute
